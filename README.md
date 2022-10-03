@@ -1,2 +1,2 @@
-# Gaazebo_horse
+# Gazebo_horse
  walking horse model in Gazebo, it needs to be improved
